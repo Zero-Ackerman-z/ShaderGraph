@@ -49,14 +49,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Float: 1.62
+    - _Float: 9.27
     - _Float_1: 0.71
     - _QueueControl: 0
     - _QueueOffset: 5
-    - _fps: 13.4
+    - _fps: 13.46
     - _mask_speed: 0.88
-    - _riplestreing: 0.266
-    - _ruplitile: 7.4
+    - _riplestreing: 0.429
+    - _ruplitile: 12.5
     m_Colors: []
   m_BuildTextureStacks: []
 --- !u!114 &9011084299968497490
