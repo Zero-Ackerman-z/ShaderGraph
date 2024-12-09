@@ -1,5 +1,6 @@
 fileFormatVersion: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 guid: 2a5e649cde00dd847885c694eb77f1fb
 ModelImporter:
   serializedVersion: 19301
@@ -21,6 +22,8 @@ ModelImporter:
     materialSearch: 1
     materialLocation: 0
 =======
+=======
+>>>>>>> Stashed changes
 guid: 00833ae1ed3713a46869ec3af51917ec
 ModelImporter:
   serializedVersion: 22200
@@ -31,6 +34,9 @@ ModelImporter:
     materialName: 0
     materialSearch: 1
     materialLocation: 1
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   animations:
     legacyGenerateAnimations: 4
@@ -38,6 +44,10 @@ ModelImporter:
     resampleCurves: 1
     optimizeGameObjects: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+    removeConstantScaleCurves: 0
+>>>>>>> Stashed changes
 =======
     removeConstantScaleCurves: 0
 >>>>>>> Stashed changes
@@ -61,10 +71,14 @@ ModelImporter:
     isReadable: 0
   meshes:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     lODScreenPercentages:
     - 0.25
     - 0.125
     - 0.01
+=======
+    lODScreenPercentages: []
+>>>>>>> Stashed changes
 =======
     lODScreenPercentages: []
 >>>>>>> Stashed changes
@@ -74,6 +88,10 @@ ModelImporter:
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+    importPhysicalCameras: 1
+>>>>>>> Stashed changes
 =======
     importPhysicalCameras: 1
 >>>>>>> Stashed changes
@@ -82,6 +100,10 @@ ModelImporter:
     importCameras: 1
     importLights: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+    nodeNameCollisionStrategy: 1
+>>>>>>> Stashed changes
 =======
     nodeNameCollisionStrategy: 1
 >>>>>>> Stashed changes
@@ -92,6 +114,10 @@ ModelImporter:
     keepQuads: 0
     weldVertices: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+    bakeAxisConversion: 0
+>>>>>>> Stashed changes
 =======
     bakeAxisConversion: 0
 >>>>>>> Stashed changes
@@ -100,6 +126,10 @@ ModelImporter:
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+    optimizeBones: 1
+>>>>>>> Stashed changes
 =======
     optimizeBones: 1
 >>>>>>> Stashed changes
@@ -109,15 +139,21 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     secondaryUVPackMargin: 4
     useFileScale: 1
 =======
+=======
+>>>>>>> Stashed changes
     secondaryUVMarginMethod: 1
     secondaryUVMinLightmapResolution: 40
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
     strictVertexDataChecks: 0
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   tangentSpace:
     normalSmoothAngle: 60
@@ -151,6 +187,12 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+>>>>>>> Stashed changes
 =======
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   importBlendShapeDeformPercent: 1
