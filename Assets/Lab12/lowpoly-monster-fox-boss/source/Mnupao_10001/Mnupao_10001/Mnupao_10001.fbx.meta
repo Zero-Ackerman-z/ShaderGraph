@@ -3,7 +3,12 @@ guid: e0493d369ef8b484db480f82f1182cd0
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mnupao_10001_Mnupao_T_10001
+    second: {fileID: 2100000, guid: f8f111946e4efae4a885ac45903038ae, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

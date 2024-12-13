@@ -1,11 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement; 
 
 public class PlayerMovement : MonoBehaviour
 {
     public CharacterController controller;
-
+    [SerializeField] private string previousSceneName;
     public float speed = 5;
     public float gravity = -9.18f;
     public float jumpHeight = 3f;
@@ -49,5 +50,22 @@ public class PlayerMovement : MonoBehaviour
         velocity.y += gravity * Time.deltaTime;
 
         controller.Move(velocity * Time.deltaTime);
+
+        if (Input.GetKeyDown(KeyCode.J))
+        {
+            ReturnToPreviousScene();
+        }
     }
+    private void ReturnToPreviousScene()
+    {
+        if (!string.IsNullOrEmpty(previousSceneName))
+        {
+            SceneManager.LoadScene(previousSceneName);
+        }
+        else
+        {
+            Debug.LogWarning("No hay una escena anterior configurada.");
+        }
+    }
+
 }
